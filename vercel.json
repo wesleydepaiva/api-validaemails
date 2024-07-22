@@ -16,5 +16,5 @@
       "app/api/**/*": {
         "maxDuration": 60
       }
-    }
+    } 
   }
